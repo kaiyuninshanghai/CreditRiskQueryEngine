@@ -4,3 +4,7 @@ numpy
 matplotlib
 seaborn
 scipy
+langchain
+langchain-core
+langchain-openai
+sqlparse
